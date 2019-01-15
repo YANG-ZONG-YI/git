@@ -6,6 +6,7 @@ TagManager:
   tags:
   - tarrain
   - streaming
+  - Obstacle
   layers:
   - Default
   - TransparentFX
